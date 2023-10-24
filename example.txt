@@ -1,7 +1,0 @@
-This is an example
-
-This is a new line
-
-add another change
-
-add 1 more change
